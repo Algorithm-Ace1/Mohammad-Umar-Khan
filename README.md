@@ -18,4 +18,4 @@ Internships Or Entry-Level Roles In **Data Analytics**
 # 📫 Let’s Connect:
 [Linkedin] https://www.linkedin.com/in/mohammad-umar-khan- 
 
-📧 Email: mohammadumarkhan4563@gmail.com
+📧 Email: mohammadumar4563@gmail.com
