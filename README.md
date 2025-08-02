@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mohammad Umar Khan  
 
-🎓 Bca Graduate | 📊 Aspiring Data Analyst | 💻 Data Science Enthusiast
+🎓 BCA Graduate | 📊 Aspiring Data Analyst | 💻 Data Science Enthusiast
 
 I am passionate about transforming raw data into actionable insights that support strategic decision-making.
 
